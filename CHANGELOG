@@ -9,6 +9,7 @@ Unreleased
 - Drop support for Django 2.1, 2.2, and 3.0.
 - Add support for Django 3.2, 4.0, and 4.1.
 - Port CI to GitHub Actions.
+- Update to PEP 517 isolated build.
 
 0.3.0 (2019-08-01)
 ==================
