@@ -125,13 +125,13 @@ class PostSerializer(ObjectPermissionsAssignmentMixin, serializers.ModelSerializ
 ## Release Process
 
 - Update changelog
-- Update package version in setup.py
+- Update package version in setup.cfg
 - Create git tag for version
 - Build & upload release to PyPI
   ```bash
-  $ pip install -U pip setuptools wheel twine
+  $ pip install -U build
   $ rm -rf dist/ build/
-  $ python setup.py sdist bdist_wheel
+  $ python -m build
   $ twine upload -r test dist/*
   $ twine upload dist/*
   ```
