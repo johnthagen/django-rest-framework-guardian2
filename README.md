@@ -129,8 +129,8 @@ class PostSerializer(ObjectPermissionsAssignmentMixin, serializers.ModelSerializ
 - Create git tag for version
 - Build & upload release to PyPI
   ```bash
-  $ pip install -U build
   $ rm -rf dist/ build/
+  $ pip install -U build twine
   $ python -m build
   $ twine upload -r test dist/*
   $ twine upload dist/*
