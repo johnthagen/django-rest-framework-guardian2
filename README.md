@@ -1,11 +1,11 @@
 # django-rest-framework-guardian2
 
-[![GitHub Actions][github-actions-badge]](https://github.com/johnthagen/django-rest-framework-guardian/actions)
+[![GitHub Actions][github-actions-badge]](https://github.com/johnthagen/django-rest-framework-guardian2/actions)
 [![License](https://img.shields.io/pypi/l/djangorestframework-guardian2.svg)](https://pypi.org/project/djangorestframework-guardian2)
 [![Version](https://img.shields.io/pypi/v/djangorestframework-guardian2.svg)](https://pypi.org/project/djangorestframework-guardian2)
 [![Python](https://img.shields.io/pypi/pyversions/djangorestframework-guardian2.svg)](https://pypi.org/project/djangorestframework-guardian2/)
 
-[github-actions-badge]: https://github.com/johnthagen/django-rest-framework-guardian/workflows/python/badge.svg
+[github-actions-badge]: https://github.com/johnthagen/django-rest-framework-guardian2/workflows/python/badge.svg
 
 django-rest-framework-guardian2 provides django-guardian integrations for Django REST Framework.
 
@@ -138,4 +138,4 @@ class PostSerializer(ObjectPermissionsAssignmentMixin, serializers.ModelSerializ
 
 ## License
 
-See: [LICENSE](https://github.com/johnthagen/django-rest-framework-guardian/blob/master/LICENSE)
+See: [LICENSE](https://github.com/johnthagen/django-rest-framework-guardian2/blob/master/LICENSE)
