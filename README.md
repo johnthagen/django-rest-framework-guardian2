@@ -1,6 +1,6 @@
 # django-rest-framework-guardian2
 
-[![GitHub Actions][github-actions-badge]](https://github.com/johnthagen/python-blueprint/actions)
+[![GitHub Actions][github-actions-badge]](https://github.com/johnthagen/django-rest-framework-guardian/actions)
 [![License](https://img.shields.io/pypi/l/djangorestframework-guardian2.svg)](https://pypi.org/project/djangorestframework-guardian2)
 [![Version](https://img.shields.io/pypi/v/djangorestframework-guardian2.svg)](https://pypi.org/project/djangorestframework-guardian2)
 [![Python](https://img.shields.io/pypi/pyversions/djangorestframework-guardian2.svg)](https://pypi.org/project/djangorestframework-guardian2/)
