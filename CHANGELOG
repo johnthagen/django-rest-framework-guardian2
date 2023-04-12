@@ -2,6 +2,9 @@ Unreleased
 ==========
 
 - Update GitHub project name.
+- Add support for Django 4.2.
+- Drop support for Django 4.0.
+- Add minimum versions for dependencies.
 
 0.4.0 (2022-12-28)
 ==================
