@@ -2,6 +2,7 @@ Unreleased
 ==========
 
 - Drop support for Django 3.2.
+- Drop support for Python 3.8.
 
 0.6.0 (2024-01-13)
 ==================
