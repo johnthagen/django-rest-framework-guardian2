@@ -9,6 +9,10 @@
 
 django-rest-framework-guardian2 provides django-guardian integrations for Django REST Framework.
 
+> [!NOTE]
+> This repository has been archived because the original
+> [django-rest-framework-guardian](https://github.com/rpkilby/django-rest-framework-guardian) has become
+> active again.    
 
 ## Installation & Setup
 
